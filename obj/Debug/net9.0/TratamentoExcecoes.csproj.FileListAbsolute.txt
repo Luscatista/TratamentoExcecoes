@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net9.0\TratamentoExcecoes.exe
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net9.0\TratamentoExcecoes.deps.json
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net9.0\TratamentoExcecoes.runtimeconfig.json
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net9.0\TratamentoExcecoes.dll
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net9.0\TratamentoExcecoes.pdb
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.dll
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\refint\TratamentoExcecoes.dll
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.pdb
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\ref\TratamentoExcecoes.dll

@@ -12,3 +12,4 @@ C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0
 C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.pdb
 C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.genruntimeconfig.cache
 C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\ref\TratamentoExcecoes.dll
+C:\Users\fic\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net9.0\TratamentoExcecoes.sourcelink.json
